@@ -1,5 +1,6 @@
 import React from 'react'
 import './Portfolio.css'
+import RSVPApp from '../../assets/RSVPApp.png'
 import QuizApp from '../../assets/QuizApp.png'
 import WeatherApp from '../../assets/WeatherApp2.png'
 import RoseBow from '../../assets/RoseBow.png'
@@ -9,20 +10,27 @@ import RoseBow from '../../assets/RoseBow.png'
 const data = [
   {
     id: 1,
+    image: RSVPApp,
+    title: 'Full-Stack RSVP Event Manager',
+    github: 'https://github.com/Chidiebere-Nwigwe/rsvp-app',
+    demo: 'https://chidiebere-nwigwe.github.io/rsvp-app/'
+  },
+  {
+    id: 2,
     image: QuizApp,
-    title: 'Quiz Website',
+    title: 'Quiz Website', 
     github: 'https://github.com/Chidiebere-Nwigwe/QuizAppJS',
     demo: 'https://chidiebere-nwigwe.github.io/QuizAppJS/'
   },
   {
-    id: 2,
+    id: 3,
     image: WeatherApp,
     title: 'Weather Website',
     github: 'https://github.com/Chidiebere-Nwigwe/WeatherWebsite',
     demo: 'https://chidiebere-nwigwe.github.io/WeatherWebsite/'
   },
   {
-    id: 3,
+    id: 4,
     image: RoseBow,
     title: 'RoseBow E-commerce App with Kotlin & Android Studio',
     github: 'https://github.com/Chidiebere-Nwigwe/EcommerceApp',
