@@ -1,22 +1,23 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.d1566f42.css",
-    "main.js": "/portfolio/static/js/main.3a14d8aa.js",
+    "main.js": "/portfolio/static/js/main.daf8cd8f.js",
     "static/media/myself.jpg": "/portfolio/static/media/myself.6794c1c00ff845850dff.jpg",
     "static/media/Anthony.JPG": "/portfolio/static/media/Anthony.a6efe4139f3d94d993d3.JPG",
     "static/media/Nkem.JPG": "/portfolio/static/media/Nkem.2fcf8283f9a9ad676d18.JPG",
     "static/media/Kenechukwu.JPG": "/portfolio/static/media/Kenechukwu.ffec10db0ad73d64f284.JPG",
     "static/media/Chidi.jpg": "/portfolio/static/media/Chidi.50bf74aef2524b7ac6b5.jpg",
+    "static/media/RSVPApp.png": "/portfolio/static/media/RSVPApp.055c9687872265560253.png",
     "static/media/WeatherApp2.png": "/portfolio/static/media/WeatherApp2.b2cd80f75ea0073272ab.png",
     "static/media/Chidiebere_Nwigwe_Resume.pdf": "/portfolio/static/media/Chidiebere_Nwigwe_Resume.b8d122a8101051050728.pdf",
     "static/media/RoseBow.png": "/portfolio/static/media/RoseBow.a60126c109f37606e5ef.png",
     "static/media/QuizApp.png": "/portfolio/static/media/QuizApp.b32e8dbd328d15cb935f.png",
     "index.html": "/portfolio/index.html",
     "main.d1566f42.css.map": "/portfolio/static/css/main.d1566f42.css.map",
-    "main.3a14d8aa.js.map": "/portfolio/static/js/main.3a14d8aa.js.map"
+    "main.daf8cd8f.js.map": "/portfolio/static/js/main.daf8cd8f.js.map"
   },
   "entrypoints": [
     "static/css/main.d1566f42.css",
-    "static/js/main.3a14d8aa.js"
+    "static/js/main.daf8cd8f.js"
   ]
 }
