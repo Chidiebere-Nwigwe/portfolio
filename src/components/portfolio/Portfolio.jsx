@@ -1,8 +1,10 @@
 import React from 'react'
 import './Portfolio.css'
+import WeddingInvitation from '../../assets/WeddingInvitation.png'
 import RSVPApp from '../../assets/RSVPApp.png'
-import QuizApp from '../../assets/QuizApp.png'
-import WeatherApp from '../../assets/WeatherApp2.png'
+import WmsApp from '../../assets/WmsApp.png'
+// import QuizApp from '../../assets/QuizApp.png'
+// import WeatherApp from '../../assets/WeatherApp.png'
 import RoseBow from '../../assets/RoseBow.png'
 
 
@@ -10,27 +12,41 @@ import RoseBow from '../../assets/RoseBow.png'
 const data = [
   {
     id: 1,
-    image: RSVPApp,
-    title: 'Full-Stack RSVP Event Manager',
-    github: 'https://github.com/Chidiebere-Nwigwe/rsvp-app',
-    demo: 'https://chidiebere-nwigwe.github.io/rsvp-app/'
+    image: WmsApp,
+    title: 'Warehouse Management System',
+    github: 'https://github.com/Chidiebere-Nwigwe/warehouse-management-system',
+    demo: 'https://warehouse-management-system-blond.vercel.app/'
   },
   {
     id: 2,
-    image: QuizApp,
-    title: 'Quiz Website', 
-    github: 'https://github.com/Chidiebere-Nwigwe/QuizAppJS',
-    demo: 'https://chidiebere-nwigwe.github.io/QuizAppJS/'
+    image: WeddingInvitation,
+    title: 'Wedding Invitation App',
+    github: 'https://github.com/Chidiebere-Nwigwe/weddinginvitation',
+    demo: 'https://chidiebere-nwigwe.github.io/weddinginvitation/'
   },
   {
     id: 3,
-    image: WeatherApp,
-    title: 'Weather Website',
-    github: 'https://github.com/Chidiebere-Nwigwe/WeatherWebsite',
-    demo: 'https://chidiebere-nwigwe.github.io/WeatherWebsite/'
+    image: RSVPApp,
+    title: 'RSVP Event Manager App for Wedding Invitation App',
+    github: 'https://github.com/Chidiebere-Nwigwe/rsvp-app',
+    demo: 'https://chidiebere-nwigwe.github.io/rsvp-app/'
   },
+  // {
+  //   id: 4,
+  //   image: QuizApp,
+  //   title: 'Quiz Website', 
+  //   github: 'https://github.com/Chidiebere-Nwigwe/QuizAppJS',
+  //   demo: 'https://chidiebere-nwigwe.github.io/QuizAppJS/'
+  // },
+  // {
+  //   id: 5,
+  //   image: WeatherApp,
+  //   title: 'Weather Website',
+  //   github: 'https://github.com/Chidiebere-Nwigwe/WeatherWebsite',
+  //   demo: 'https://chidiebere-nwigwe.github.io/WeatherWebsite/'
+  // },
   {
-    id: 4,
+    id: 5,
     image: RoseBow,
     title: 'RoseBow E-commerce App with Kotlin & Android Studio',
     github: 'https://github.com/Chidiebere-Nwigwe/EcommerceApp',
