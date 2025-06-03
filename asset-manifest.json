@@ -1,24 +1,23 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.d1566f42.css",
-    "main.js": "/portfolio/static/js/main.26a88a16.js",
+    "main.js": "/portfolio/static/js/main.c4494ffd.js",
     "static/media/myself.jpg": "/portfolio/static/media/myself.6794c1c00ff845850dff.jpg",
     "static/media/Anthony.JPG": "/portfolio/static/media/Anthony.a6efe4139f3d94d993d3.JPG",
     "static/media/Nkem.JPG": "/portfolio/static/media/Nkem.2fcf8283f9a9ad676d18.JPG",
     "static/media/Kenechukwu.JPG": "/portfolio/static/media/Kenechukwu.ffec10db0ad73d64f284.JPG",
     "static/media/Chidi.jpg": "/portfolio/static/media/Chidi.50bf74aef2524b7ac6b5.jpg",
-    "static/media/WeatherApp.png": "/portfolio/static/media/WeatherApp.ed4bcb605e896a290974.png",
     "static/media/WeddingInvitation.png": "/portfolio/static/media/WeddingInvitation.a4925aeac6890fbb2ee7.png",
     "static/media/RSVPApp.png": "/portfolio/static/media/RSVPApp.055c9687872265560253.png",
     "static/media/RoseBow.png": "/portfolio/static/media/RoseBow.e50706798ea7aa35494f.png",
     "static/media/Chidiebere_Nwigwe_Resume.pdf": "/portfolio/static/media/Chidiebere_Nwigwe_Resume.b8d122a8101051050728.pdf",
-    "static/media/QuizApp.png": "/portfolio/static/media/QuizApp.ecad109b22adf386261f.png",
+    "static/media/WmsApp.png": "/portfolio/static/media/WmsApp.f72e812988789c392008.png",
     "index.html": "/portfolio/index.html",
     "main.d1566f42.css.map": "/portfolio/static/css/main.d1566f42.css.map",
-    "main.26a88a16.js.map": "/portfolio/static/js/main.26a88a16.js.map"
+    "main.c4494ffd.js.map": "/portfolio/static/js/main.c4494ffd.js.map"
   },
   "entrypoints": [
     "static/css/main.d1566f42.css",
-    "static/js/main.26a88a16.js"
+    "static/js/main.c4494ffd.js"
   ]
 }
